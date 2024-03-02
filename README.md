@@ -1,0 +1,1 @@
+Welcome to the Faulty Calculator project! This simple Python program is designed to simulate a calculator with intentional bugs in some arithmetic operations. It's a fun and educational project suitable for beginners who want to practice basic programming concepts in Python.
